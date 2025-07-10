@@ -17,7 +17,7 @@
   </tr>
   <tr align="center">
     <td><a href="https://github.com/Kailua-Development/android_device_qcom_kalama">Kalama for arm64</a></td>
-    <td>AOSP/Project Kailua</td>
+    <td>LineageOS</td>
     <td>Work in Progress</td>
     <td>uwugl, Littlenine, EdwardWu</td>
   </tr>
