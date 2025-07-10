@@ -19,7 +19,7 @@
     <td><a href="https://github.com/Kailua-Development/android_device_qcom_kalama">Kalama for arm64</a></td>
     <td>AOSP/Project Kailua</td>
     <td>Work in Progress</td>
-    <td>YourName, Contributor1, Contributor2</td>
+    <td>uwugl, Littlenine, EdwardWu</td>
   </tr>
 </table>
 </div>
