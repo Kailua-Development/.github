@@ -20,6 +20,10 @@
     <td>LineageOS</td>
     <td>Work in Progress</td>
     <td>uwugl, Littlenine, EdwardWu</td>
+    <td><a href="https://github.com/Kailua-Development/twrp_device_qcom_kalama">Kalama for arm64</a></td>
+    <td>TWRP</td>
+    <td>Work in Progress</td>
+    <td>Littlenine</td>
   </tr>
 </table>
 </div>
